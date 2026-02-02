@@ -1,0 +1,4 @@
+.venv
+
+# os files
+.DS_Store
